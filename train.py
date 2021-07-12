@@ -10,16 +10,10 @@ from config import Config
 import os
 import random
 
-# model_shortcut = sys.argv[1]  # ["b-l", "rb-l", "db-l", "alb-xxl1"]
-# seed_val = int(sys.argv[2])
-# isadv = sys.argv[3]  # ["adv", "noadv"]
-# aug_data = sys.argv[4]  # ["0", "bcopa"]
-
-
-model_shortcut = "db-l"  # ["b-l", "rb-l", "db-l", "alb-xxl1"]
-seed_val = 436
-isadv = "adv"  # ["adv", "noadv"]
-aug_data = "0"  # ["0", "bcopa"]
+model_shortcut = sys.argv[1]  # ["b-l", "rb-l", "db-l", "alb-xxl1"]
+seed_val = int(sys.argv[2])
+isadv = sys.argv[3]  # ["adv", "noadv"]
+aug_data = sys.argv[4]  # ["0", "bcopa"]
 
 lr = Config.best_lr_dic[isadv][aug_data][model_shortcut]  # selected by pfm of dev set before
 lamda = Config.best_lamda_dic[model_shortcut]
