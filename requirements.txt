@@ -1,0 +1,11 @@
+nltk==3.5
+numpy==1.19.1
+matplotlib==3.3.2
+scipy==1.5.2
+seaborn==0.11.1
+transformers==4.2.2
+pandas==1.1.1
+semantic_text_similarity==1.0.3
+tqdm==4.48.2
+keras==2.4.3
+scikit_learn==0.24.2

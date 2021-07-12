@@ -1,0 +1,3 @@
+,model_name,lr,isadv,aug_data,random_seed,best_epoch,patience,acc_train,acc_dev
+0,db-l,5e-06,noadv,0,436,12,5,1.0,0.9
+0,db-l,1e-05,adv,0,436,7,5,1.0,0.88

@@ -1,0 +1,51 @@
+,cause_0,effect_0,cause_1,effect_1,label
+0,The forecast predicted high temperatures.,The runner wore shorts.,She planned to run along the beach.,The runner wore shorts.,0
+1,I poured water on my sleeping friend.,My friend awoke.,I poured water on my sleeping friend.,My friend snored.,0
+2,The farmland needed irrigation.,A canal was constructed.,The farmland needed irrigation.,A flood occurred.,0
+3,He avoided exposure to the disease.,The child became immune to the disease.,He received the vaccine for the disease.,The child became immune to the disease.,1
+4,The man hated his new haircut.,He wore a hat.,The man hated his new haircut.,He grew a beard.,0
+5,The tenant misplaced his keys to his apartment.,His landlord unlocked the door.,The tenant misplaced his keys to his apartment.,His landlord repaired the door.,0
+6,It migrated for the winter.,The bird couldn't fly.,It injured its wing.,The bird couldn't fly.,1
+7,The homeowners disliked their nosy neighbors.,They built a fence around their property.,The homeowners disliked their nosy neighbors.,They hosted a barbeque in their backyard.,0
+8,The police called for backup.,The police handcuffed the suspect.,The suspect resisted arrest.,The police handcuffed the suspect.,1
+9,His family urged him to quit smoking.,The man craved a cigarette.,He was addicted to nicotine.,The man craved a cigarette.,1
+10,The glass was stained.,The window was opaque.,The blinds were open.,The window was opaque.,0
+11,He was parking.,The driver got pulled over by the police.,He was speeding.,The driver got pulled over by the police.,1
+12,The surfer caught the wave.,The wave carried her to the shore.,The surfer caught the wave.,She paddled her board into the ocean.,0
+13,The man contemplated the painting.,He felt in awe.,The man contemplated the painting.,He collapsed.,0
+14, The driver talked the whole way.,The trip took a long time.,The driver made a wrong turn.,The trip took a long time.,1
+15,I rubbed the soap between my hands.,The soap foamed.,I rubbed the soap between my hands.,My hands went numb.,0
+16,A burglar broke into the house.,The homeowners were asleep.,A burglar broke into the house.,The security alarm went off.,1
+17,The man reached into his pocket.,The security guard tackled the man.,The man displayed a weapon.,The security guard tackled the man.,1
+18,They were outnumbered.,The army surrendered the battle.,They stormed the city.,The army surrendered the battle.,0
+19,It was clean.,I ironed my shirt.,It was wrinkled.,I ironed my shirt.,1
+20,The fire alarm blared.,The woman covered her ears.,The woman smelled smoke.,The woman covered her ears.,0
+21,I tossed the ball upwards.,The ball rolled across the ground.,I tossed the ball upwards.,The ball hit the ceiling.,1
+22,I wiped the desk with a cloth.,The dust came off the desk.,I removed the books from the desk.,The dust came off the desk.,0
+23,The woman felt ashamed of scar on her face.,She explained the scar to strangers.,The woman felt ashamed of scar on her face.,She hid the scar with makeup.,1
+24,He was collecting seashells in the sand.,The boy filled the bucket with sand.,He was building a sand castle.,The boy filled the bucket with sand.,1
+25,I sensed someone approaching me from behind.,I jumped instinctively in fright.,I heard people chuckling in the adjacent room.,I jumped instinctively in fright.,0
+26,Their best player was injured.,The team lost the game.,Their coach pumped them up.,The team lost the game.,0
+27,The stranger cried out to me in a foreign language.,I stared blankly at him.,The stranger cried out to me in a foreign language.,I stopped to chat with him.,0
+28,I was unhappy.,My jaw dropped open.,I was shocked.,My jaw dropped open.,1
+29,The car looked filthy.,The owner took it to the car wash.,The car looked filthy.,He owner took it in for a paint job.,0
+30,He trusted the therapist.,The man revealed personal information to the therapist.,He disagreed with the therapist.,The man revealed personal information to the therapist.,0
+31,The laptop's warranty expired.,The screen on the laptop went black.,The laptop's battery died.,The screen on the laptop went black.,1
+32,The woman was summoned for jury duty.,She contacted her lawyer.,The woman was summoned for jury duty.,She cancelled her appointments.,1
+33,Boats sailed through the ocean.,Marine life diminished.,Oil spilled into the ocean.,Marine life diminished.,1
+34,The city cut its budget.,The city re-elected the mayor.,The mayor fulfilled his promises.,The city re-elected the mayor.,1
+35,The woman waved.,The woman spotted her friend from across the room.,The woman escaped.,The woman spotted her friend from across the room.,0
+36,Another car swerved into her lane.,The driver honked her horn.,She made a right turn at the light.,The driver honked her horn.,0
+37,The boy looked up to his older brother.,The boy mimicked his older brother.,The boy wrestled with his older brother.,The boy mimicked his older brother.,0
+38,Its sales were lagging.,The retail shop shut down.,It renewed its lease.,The retail shop shut down.,0
+39,Her teammate threw it to her.,The player caught the ball.,Her opponent tried to intercept it.,The player caught the ball.,0
+40,The children hit a ball into her yard.,The woman banished the children from her property.,The children trampled through her garden.,The woman banished the children from her property.,1
+41,He heard thunder.,The driver turned on the car's headlights.,The sun went down.,The driver turned on the car's headlights.,1
+42,She exhaled.,The woman covered her mouth with her hand.,She sneezed.,The woman covered her mouth with her hand.,1
+43,I inhaled smoke.,I coughed.,I lowered my voice.,I coughed.,0
+44,The bride got cold feet before the wedding.,The wedding guests brought gifts.,The bride got cold feet before the wedding.,She called the wedding off.,1
+45,I pressed my hand into the wet cement.,My handprint dried in the cement.,I pressed my hand into the wet cement.,Cracks emerged in the cement.,0
+46,The couple was happy to see each other.,They kissed.,The couple was happy to see each other.,They rested.,0
+47,The couple got engaged.,They planned a wedding.,The couple got engaged.,They took some time apart.,0
+48,The man won the lottery.,He became rich.,The man won the lottery.,He owed money.,0
+49,The girl wanted to wear earrings.,She got her ears pierced.,The girl wanted to wear earrings.,She got a tattoo.,0

@@ -1,0 +1,101 @@
+,cause_0,effect_0,cause_1,effect_1,label
+0,She planned to run along the beach.,The runner wore shorts.,The forecast predicted high temperatures.,The runner wore shorts.,1
+1,She planned to run along the beach.,The runner stretched.,The forecast predicted high temperatures.,The runner stretched.,0
+2,I poured water on my sleeping friend.,My friend awoke.,I poured water on my sleeping friend.,My friend snored.,0
+3,I made my friend very tired.,My friend awoke.,I made my friend very tired.,My friend snored.,1
+4,The farmland needed irrigation.,A flood occurred.,The farmland needed irrigation.,A canal was constructed.,1
+5,The farmland got heavy rain.,A canal was constructed.,The farmland got heavy rain.,A flood occurred.,1
+6,He received the vaccine for the disease.,The child became immune to the disease.,He avoided exposure to the disease.,The child became immune to the disease.,0
+7,He received the vaccine for the disease.,The child was not vaccinated but did not get the disease.,He avoided exposure to the disease.,The child was not vaccinated but did not get the disease.,1
+8,The man hated his new haircut.,He grew a beard.,The man hated his new haircut.,He wore a hat.,1
+9,The man hated the shape of his chin.,He wore a hat.,The man hated the shape of his chin.,He grew a beard.,1
+10,The tenant misplaced his keys to his apartment.,His landlord unlocked the door.,The tenant misplaced his keys to his apartment.,His landlord repaired the door.,0
+11,The tenant broke the door of his apartment.,His landlord repaired the door.,The tenant broke the door of his apartment.,His landlord unlocked the door.,0
+12,It migrated for the winter.,The bird couldn't fly.,It injured its wing.,The bird couldn't fly.,1
+13,It injured its wing.,The bird flew south.,It migrated for the winter.,The bird flew south.,1
+14,The homeowners disliked their nosy neighbors.,They built a fence around their property.,The homeowners disliked their nosy neighbors.,They hosted a barbeque in their backyard.,0
+15,The homeowners liked their neighbors.,They built a fence around their property.,The homeowners liked their neighbors.,They hosted a barbeque in their backyard.,1
+16,The police called for backup.,The police handcuffed the suspect.,The suspect resisted arrest.,The police handcuffed the suspect.,1
+17,The suspect resisted arrest.,The police was hit by the suspect.,The police called for backup.,The police was hit by the suspect.,1
+18,His family urged him to quit smoking.,The man craved a cigarette.,He was addicted to nicotine.,The man craved a cigarette.,1
+19,He was addicted to nicotine.,The man threw his cigarettes away.,His family urged him to quit smoking.,The man threw his cigarettes away.,1
+20,The glass was stained.,The window was opaque.,The blinds were open.,The window was opaque.,0
+21,The blinds were open.,The sun was coming through the window.,The glass was stained.,The sun was coming through the window.,0
+22,He was parking.,The driver got pulled over by the police.,He was speeding.,The driver got pulled over by the police.,1
+23,He was parking.,The driver looked into the rear camera.,He was speeding.,The driver looked into the rear camera.,0
+24,The surfer caught the wave.,She paddled her board into the ocean.,The surfer caught the wave.,The wave carried her to the shore.,1
+25,The surfer saw the wave.,She paddled her board into the ocean.,The surfer saw the wave.,The wave carried her to the shore.,0
+26,The man contemplated the painting.,He collapsed.,The man contemplated the painting.,He felt in awe.,1
+27,The man had a heart attack.,He felt in awe.,The man had a heart attack.,He collapsed.,1
+28, The driver talked the whole way.,The trip took a long time.,The driver made a wrong turn.,The trip took a long time.,1
+29,The driver talked the whole way.,The trip was a fun time.,The driver made a wrong turn.,The trip was a fun time.,0
+30,I rubbed the soap between my hands.,My hands went numb.,I rubbed the soap between my hands.,The soap foamed.,1
+31,I slammed my hands in the door.,The soap foamed.,I slammed my hands in the door.,My hands went numb.,1
+32,A burglar broke into the house.,The homeowners were asleep.,A burglar broke into the house.,The security alarm went off.,1
+33,It was night in a quiet neighborhood.,The security alarm went off.,It was night in a quiet neighborhood.,The homeowners were asleep.,1
+34,The man reached into his pocket.,The security guard tackled the man.,The man displayed a weapon.,The security guard tackled the man.,1
+35,The man displayed a weapon.,The security guard questioned the man.,The man reached into his pocket.,The security guard questioned the man.,1
+36,They were outnumbered.,The army surrendered the battle.,They stormed the city.,The army surrendered the battle.,0
+37,They were outnumbered.,The army won the battle.,They stormed the city.,The army won the battle.,1
+38,It was wrinkled.,I ironed my shirt.,It was clean.,I ironed my shirt.,0
+39,It was clean.,I wore my shirt.,It was wrinkled.,I wore my shirt.,0
+40,The woman smelled smoke.,The woman covered her ears.,The fire alarm blared.,The woman covered her ears.,1
+41,The fire alarm blared.,The woman covered her nose.,The woman smelled smoke.,The woman covered her nose.,1
+42,I tossed the ball upwards.,The ball hit the ceiling.,I tossed the ball upwards.,The ball rolled across the ground.,0
+43,I tossed the ball forward.,The ball hit the ceiling.,I tossed the ball forward.,The ball rolled across the ground.,1
+44,I removed the books from the desk.,The dust came off the desk.,I wiped the desk with a cloth.,The dust came off the desk.,1
+45,I wiped the desk with a cloth.,The desk was light.,I removed the books from the desk.,The desk was light.,1
+46,The woman felt ashamed of scar on her face.,She hid the scar with makeup.,The woman felt ashamed of scar on her face.,She explained the scar to strangers.,0
+47,The woman was questioned about the scar on her face.,She hid the scar with makeup.,The woman was questioned about the scar on her face.,She explained the scar to strangers.,1
+48,He was building a sand castle.,The boy filled the bucket with sand.,He was collecting seashells in the sand.,The boy filled the bucket with sand.,0
+49,He was building a sand castle.,The boy cut his hand in the sand.,He was collecting seashells in the sand.,The boy cut his hand in the sand.,1
+50,I heard people chuckling in the adjacent room.,I jumped instinctively in fright.,I sensed someone approaching me from behind.,I jumped instinctively in fright.,1
+51,I heard people chuckling in the adjacent room.,I woke up.,I sensed someone approaching me from behind.,I woke up.,0
+52,Their coach pumped them up.,The team lost the game.,Their best player was injured.,The team lost the game.,1
+53,Their best player was injured.,The team won the game.,Their coach pumped them up.,The team won the game.,1
+54,The stranger cried out to me in a foreign language.,I stopped to chat with him.,The stranger cried out to me in a foreign language.,I stared blankly at him.,1
+55,The stranger shouted insults at me in a foreign language.,I stared blankly at him.,The stranger shouted insults at me in a foreign language.,I stopped to chat with him.,1
+56,I was shocked.,My jaw dropped open.,I was unhappy.,My jaw dropped open.,0
+57,I was shocked.,My face dropped.,I was unhappy.,My face dropped.,1
+58,The car looked filthy.,He owner took it in for a paint job.,The car looked filthy.,The owner took it to the car wash.,1
+59,The car looked keyed.,He owner took it in for a paint job.,The car looked keyed.,The owner took it to the car wash.,0
+60,He trusted the therapist.,The man revealed personal information to the therapist.,He disagreed with the therapist.,The man revealed personal information to the therapist.,0
+61,He trusted the therapist.,The man withheld personal information from the therapist.,He disagreed with the therapist.,The man withheld personal information from the therapist.,1
+62,The laptop's warranty expired.,The screen on the laptop went black.,The laptop's battery died.,The screen on the laptop went black.,1
+63,The laptop's warranty expired.,The manufacturer wouldn't fix the screen on the laptop after it went black.,The laptop's battery died.,The manufacturer wouldn't fix the screen on the laptop after it went black.,0
+64,The woman was summoned for jury duty.,She contacted her lawyer.,The woman was summoned for jury duty.,She cancelled her appointments.,1
+65,The woman wanted a divorce. ,She cancelled her appointments.,The woman wanted a divorce. ,She contacted her lawyer.,1
+66,Boats sailed through the ocean.,Marine life diminished.,Oil spilled into the ocean.,Marine life diminished.,1
+67,Oil spilled into the ocean.,New countries were discovered.,Boats sailed through the ocean.,New countries were discovered.,1
+68,The mayor fulfilled his promises.,The city re-elected the mayor.,The city cut its budget.,The city re-elected the mayor.,0
+69,The city cut its budget.,The city had spent too much money.,The mayor fulfilled his promises.,The city had spent too much money.,0
+70,The woman escaped.,The woman spotted her friend from across the room.,The woman waved.,The woman spotted her friend from across the room.,1
+71,The woman escaped.,The woman was not arrested by police.,The woman waved.,The woman was not arrested by police.,0
+72,Another car swerved into her lane.,The driver honked her horn.,She made a right turn at the light.,The driver honked her horn.,0
+73,Another car swerved into her lane.,The driver check her rear mirror for cyclists.,She made a right turn at the light.,The driver check her rear mirror for cyclists.,1
+74,The boy looked up to his older brother.,The boy mimicked his older brother.,The boy wrestled with his older brother.,The boy mimicked his older brother.,0
+75,The boy looked up to his older brother.,The boy broke his arm.,The boy wrestled with his older brother.,The boy broke his arm.,1
+76,It renewed its lease.,The retail shop shut down.,Its sales were lagging.,The retail shop shut down.,1
+77,It renewed its lease.,The retail shop stayed open for another year.,Its sales were lagging.,The retail shop stayed open for another year.,0
+78,Her opponent tried to intercept it.,The player caught the ball.,Her teammate threw it to her.,The player caught the ball.,1
+79,Her opponent tried to intercept it.,The player could not see the ball.,Her teammate threw it to her.,The player could not see the ball.,0
+80,The children trampled through her garden.,The woman banished the children from her property.,The children hit a ball into her yard.,The woman banished the children from her property.,0
+81,The children trampled through her garden.,The children rang the bell at the woman's house.,The children hit a ball into her yard.,The children rang the bell at the woman's house.,1
+82,The sun went down.,The driver turned on the car's headlights.,He heard thunder.,The driver turned on the car's headlights.,0
+83,The sun went down.,The driver pulled up the roof of his convertible.,He heard thunder.,The driver pulled up the roof of his convertible.,1
+84,She sneezed.,The woman covered her mouth with her hand.,She exhaled.,The woman covered her mouth with her hand.,0
+85,She exhaled.,The woman's friend noticed her bad breath.,She sneezed.,The woman's friend noticed her bad breath.,0
+86,I inhaled smoke.,I coughed.,I lowered my voice.,I coughed.,0
+87,I lowered my voice.,Only the person next to me could hear me speak.,I inhaled smoke.,Only the person next to me could hear me speak.,0
+88,The bride got cold feet before the wedding.,The wedding guests brought gifts.,The bride got cold feet before the wedding.,She called the wedding off.,1
+89,The bride made a wishlist.,The wedding guests brought gifts.,The bride made a wishlist.,She called the wedding off.,0
+90,I pressed my hand into the wet cement.,Cracks emerged in the cement.,I pressed my hand into the wet cement.,My handprint dried in the cement.,1
+91,The hot sun shined onto the cement all summer.,Cracks emerged in the cement.,The hot sun shined onto the cement all summer.,My handprint dried in the cement.,0
+92,The couple was happy to see each other.,They rested.,The couple was happy to see each other.,They kissed.,1
+93,The couple was very tired.,They rested.,The couple was very tired.,They kissed.,0
+94,The couple got engaged.,They took some time apart.,The couple got engaged.,They planned a wedding.,1
+95,The couple had a big fight.,They took some time apart.,The couple had a big fight.,They planned a wedding.,0
+96,The man won the lottery.,He owed money.,The man won the lottery.,He became rich.,1
+97,The man bought more than he could afford.,He owed money.,The man bought more than he could afford.,He became rich.,0
+98,The girl wanted to wear earrings.,She got her ears pierced.,The girl wanted to wear earrings.,She got a tattoo.,0
+99,The girl wanted to have a symbol on her arm.,She got a tattoo.,The girl wanted to have a symbol on her arm.,She got her ears pierced.,0
