@@ -1,5 +1,5 @@
 # weakCOPA
-The implementation of the paper [Doing Good or Doing Right? Exploring the Weakness of Commonsense Causal Reasoning Models](https://arxiv.org/abs/2107.01791) (ACL2021).
+The implementation of the paper [Doing Good or Doing Right? Exploring the Weakness of Commonsense Causal Reasoning Models](https://aclanthology.org/2021.acl-short.20.pdf) (ACL2021).
 
 ## Install requirements
 
